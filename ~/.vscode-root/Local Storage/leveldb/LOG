@@ -1,2 +1,3 @@
-2023/09/27-13:17:03.856 2e57 Creating DB /home/user/webpages_tech/wireframe-exercise/~/.vscode-root/Local Storage/leveldb since it was missing.
-2023/09/27-13:17:03.896 2e57 Reusing MANIFEST /home/user/webpages_tech/wireframe-exercise/~/.vscode-root/Local Storage/leveldb/MANIFEST-000001
+2023/09/28-09:14:35.404 cfa Reusing MANIFEST /home/user/webpages_tech/wireframe-exercise/~/.vscode-root/Local Storage/leveldb/MANIFEST-000001
+2023/09/28-09:14:35.406 cfa Recovering log #3
+2023/09/28-09:14:35.406 cfa Reusing old log /home/user/webpages_tech/wireframe-exercise/~/.vscode-root/Local Storage/leveldb/000003.log 

@@ -4,9 +4,7 @@
         "workspaces": {
             "file:///home/user/webpages_tech/wireframe-exercise": "__default__profile__"
         },
-        "emptyWindows": {
-            "1695817026154": "__default__profile__"
-        }
+        "emptyWindows": {}
     },
     "profileAssociationsMigration": true,
     "telemetry.machineId": "735cc3dd46d3c0f2fd2b2617e6181a11c8371f461773994570256e7e5799a66c",
@@ -17,11 +15,7 @@
                 "folderUri": "file:///home/user/webpages_tech/wireframe-exercise"
             }
         ],
-        "emptyWindows": [
-            {
-                "backupFolder": "1695817026154"
-            }
-        ]
+        "emptyWindows": []
     },
     "windowsState": {
         "lastActiveWindow": {
