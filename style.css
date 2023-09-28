@@ -72,6 +72,12 @@ main {
     margin-bottom: 47px;
 }
 
+p {
+    max-height: 350px;
+    overflow-y: scroll;
+    margin-top: 2%;
+}
+
 #btn {
     background-color: black;
     color: white;

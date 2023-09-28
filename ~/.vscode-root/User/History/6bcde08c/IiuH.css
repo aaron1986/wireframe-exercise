@@ -6,6 +6,7 @@ body {
     display: flex;
     margin-left: 5%;
     margin-right: 5%;
+    width:960px;
 }
 
 nav {
@@ -38,29 +39,62 @@ a {
     height: 450px;
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 /* main */
+
+main {
+    
+}
+
 .image-gallery-div {
     margin-top:5%;
-    justify-content: space-between;
+    display: flex;
+}
+
+.img-gallery {
+    margin-right: 3.5%;
 }
 
 /*text image */
 .text-image {
     margin-top:5%;
+    margin-bottom: 5%;
 }
 
 .section-heading {
     margin-top:5%;
     margin-left: 2%;
-    margin-left:5%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    margin-bottom: 47px;
+}
+
+p {
+    max-height: 350px;
+    overflow-y: scroll;
+}
+
+#btn {
+    background-color: black;
+    color: white;
+    height:45px;
+    align-self: start;
+}
+
+#btn:hover {
+    /*background-color: green; */
+    /*please note the background does change with the hover property */
+    transition: background-color 2s ease-out;
 }
 
 /* footer */
 footer {
     background-color: #343a40;
     height: 100px;
+    margin-top:5%;
 }
 
 
